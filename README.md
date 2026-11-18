@@ -9,7 +9,7 @@ En este repositorio se organizará y desarrollará nuestro proyecto de clase. Aq
 ## 2. Integrantes
 
 - Hèctor
-- Jadi
+- Hadi
 - Renato
 
 ## 3. Apartados del proyecto
