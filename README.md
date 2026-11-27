@@ -4,7 +4,7 @@
 
 ## 1. Descripción del proyecto
 
-En este repositorio se organizará y desarrollará nuestro proyecto de clase. Aquí reuniremos toda la información, documentación y recursos necesarios.
+En este repositorio se organizará y desarrollará nuestro proyecto de clase. Aquí reuniremos toda la información, documentación y recursos necesarios para realizar el trabajo de forma colaborativa.
 
 ## 2. Integrantes
 
@@ -20,12 +20,12 @@ En este repositorio se organizará y desarrollará nuestro proyecto de clase. Aq
 
 ## 4. Organización del trabajo
 
-El trabajo se repartirá entre los tres integrantes. Cada persona podrá colaborar en los diferentes apartados.
+El trabajo se repartirá entre los tres integrantes. Cada persona será responsable de diferentes tareas y podrá colaborar en los distintos apartados del proyecto.
 
 ## 5. Tareas pendientes
 
-Consulta el archivo `tareas/PENDIENTE.md` para saber qué falta por hacer.
+Consulta el archivo `tareas/PENDIENTE.md` para conocer las tareas que todavía quedan por realizar.
 
 ## 6. Recursos
 
-En la carpeta `recursos` guardaremos las imágenes, documentos y otros materiales del proyecto.
+En esta sección se añadirán documentos, enlaces y otros recursos útiles para desarrollar el proyecto.
